@@ -18,6 +18,7 @@
 		8682382628F562BD00816886 /* BasitOyunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8682382528F562BD00816886 /* BasitOyunTests.swift */; };
 		8682383028F562BD00816886 /* BasitOyunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8682382F28F562BD00816886 /* BasitOyunUITests.swift */; };
 		8682383228F562BD00816886 /* BasitOyunUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8682383128F562BD00816886 /* BasitOyunUITestsLaunchTests.swift */; };
+		8682383F28F5ADAC00816886 /* SonucViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8682383E28F5ADAC00816886 /* SonucViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		8682382B28F562BD00816886 /* BasitOyunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasitOyunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8682382F28F562BD00816886 /* BasitOyunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasitOyunUITests.swift; sourceTree = "<group>"; };
 		8682383128F562BD00816886 /* BasitOyunUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasitOyunUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8682383E28F5ADAC00816886 /* SonucViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SonucViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				8682381528F562BB00816886 /* Main.storyboard */,
 				8682381828F562BD00816886 /* Assets.xcassets */,
 				8682381A28F562BD00816886 /* LaunchScreen.storyboard */,
+				8682383E28F5ADAC00816886 /* SonucViewController.swift */,
 			);
 			path = BasitOyun;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				8682381228F562BB00816886 /* GameScene.swift in Sources */,
 				8682381428F562BB00816886 /* GameViewController.swift in Sources */,
 				8682380C28F562BB00816886 /* AppDelegate.swift in Sources */,
+				8682383F28F5ADAC00816886 /* SonucViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,7 +447,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TCM282M2P3;
+				DEVELOPMENT_TEAM = R4DLJ4P88Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -471,7 +475,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TCM282M2P3;
+				DEVELOPMENT_TEAM = R4DLJ4P88Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
